@@ -49,6 +49,8 @@ body {
   height: 90px;
   display: none;
   float: left;
+  top: 10em;
+  left: 500px;
   position: absolute;
   z-index: 10;
 }
